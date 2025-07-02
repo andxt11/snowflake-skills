@@ -1,4 +1,9 @@
 --Load and Query Nested TWEET JSON Data
+--Create a database named SOCIAL_MEDIA_FLOODGATES
+--Create a table called TWEET_INGEST in the PUBLIC schema of your new database. The new table only needs 1 column (you should know the datatype, since this is JSON data). Name the column RAW_STATUS
+--Create a FILE FORMAT that is type JSON that you can use to load the file. 
+--Write a COPY INTO statement that loads the tweet data into the table. 
+--After loading the file, you should end up with 9 separate rows. One tweet per row. 
   
 --Create database
 CREATE DATABASE SOCIAL_MEDIA_FLOODGATES;
