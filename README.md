@@ -16,5 +16,5 @@ As part of my data engineering and analytics learning path, I am exploring Snowf
 
 The exercises and queries here are based on my course progress and personal experimentation.
 
----
+----
 
