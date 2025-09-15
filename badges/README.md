@@ -7,7 +7,8 @@ This page collects the official learning badges I’ve earned while exploring Sn
 ## 📌 Badge Collection
 
 ### 1. Data Warehousing Workshop 
-[View Credential]((https://achieve.snowflake.com/3f417e70-52c6-437d-a663-27d8489eb1fc#acc.aX7cEhy8))
+[View Credential](https://api.accredible.com/v1/auth/invite?code=40b63f4ed487e4d9be3d&credential_id=3f417e70-52c6-437d-a663-27d8489eb1fc&url=https%3A%2F%2Fachieve.snowflake.com%2F3f417e70-52c6-437d-a663-27d8489eb1fc&ident=1adc15f5-860b-41b5-9f6e-8e1049e63bae)
+
 
 ---
 
