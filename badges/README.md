@@ -6,15 +6,13 @@ This page collects the official learning badges I’ve earned while exploring Sn
 
 ## 📌 Badge Collection
 
-### 1. Data Warehouse Fundamentals
-![Data Warehouse Fundamentals Badge](./data-warehouse-fundamentals.png)  
-[View Credential](https://link-to-badge-1)
+### 1. Data Warehousing Workshop 
+[View Credential]((https://achieve.snowflake.com/3f417e70-52c6-437d-a663-27d8489eb1fc#acc.aX7cEhy8))
 
 ---
 
-### 2. Snowflake Performance Tuning
-![Snowflake Performance Tuning Badge](./performance-tuning.png)  
-[View Credential](https://link-to-badge-2)
+### 2. Snowflake- Collaboration, Marketplace & Cost Estimation Workshop
+[View Credential](https://achieve.snowflake.com/7089024e-2d60-4d80-b5aa-debe2a091939#acc.vEJsbmDC)
 
 ---
 
@@ -24,9 +22,8 @@ This page collects the official learning badges I’ve earned while exploring Sn
 
 ---
 
-### 4. Time Travel & Cloning
-![Time Travel Badge](./time-travel.png)  
-[View Credential](https://link-to-badge-4)
+### 4. Data Lake Workshop 
+[View Credential](https://achieve.snowflake.com/6cb25205-b7a1-4368-aa3c-c54375dc20cc#acc.lSINjHKp)
 
 ---
 
