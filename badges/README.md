@@ -28,14 +28,3 @@ This page collects the official learning badges I’ve earned while exploring Sn
 
 ---
 
-### 5. Role-Based Access Control
-![RBAC Badge](./rbac.png)  
-[View Credential](https://link-to-badge-5)
-
----
-
-### 6. Data Loading & Staging
-![Data Loading Badge](./data-loading.png)  
-[View Credential](https://link-to-badge-6)
-
----
